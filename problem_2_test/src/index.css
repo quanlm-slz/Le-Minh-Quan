@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .input-style {
+    @apply w-full border-slate-500 border px-2 outline-none focus:border focus:border-blue-500 rounded-md;
+  }
+}
