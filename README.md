@@ -6,7 +6,7 @@
 - Result of three functions will be output to the screen
 
 ## Problem 2
-- Run `docker compose up` to start the web application
+- Run `npm run dev` to start the web application, please use node@21.7.3 to run the code
 - Go to `http://localhost:5173` to interact with the web application
 - Use `Ctrl+c` to stop the container and the app
 
